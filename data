@@ -1,4 +1,0 @@
-login_id = 'zachorp@gmail.com' #enter you login id here
-login_pass = 'Lissi203' #enter your password
-PHOTO_DIRECTORY = "C:\\Users\\ASUS\\anaconda3\\vocabulary_flashcards\\Photos\\" #enter your photo directory 
-FLASHCARD_DIRECTORY = "C:\\Users\\ASUS\\anaconda3\\vocabulary_flashcards\\Flashcards\\" #enter your flashcard directory 
